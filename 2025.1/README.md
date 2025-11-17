@@ -22,8 +22,10 @@ The Vivado project will be built in the `Hardware` directory.
 ### **PetaLinux:**
 
 Enter the 'Software/PetaLinux/' directory. From the command line run the following:
+### SDT flow
+`xsct sdt.tcl ../../Hardware/prebuilt/vpk180_mrmac_3x25g_wrapper.xsa sdt_outdir`
 
-`petalinux-config --get-hw-description ../../Hardware/pre-built/ --silentconfig`
+`petalinux-config --get-hw-description ./sdt_outdir/ --silentconfig`
 
 followed by:
 
