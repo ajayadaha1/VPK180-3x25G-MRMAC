@@ -1,4 +1,4 @@
-#2025.1  pl_3x25g_mrmac - Versal MRMAC 
+# 2025.1  pl_3x25g_mrmac - Versal MRMAC 
 
 ## Design Summary
 
