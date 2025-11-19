@@ -277,7 +277,7 @@ CONFIG_MC_PLNX_IMAGES_LOCATION="${PROOT}/images/${BB_CURRENT_MC}"
 #
 # TMPDIR Location
 #
-CONFIG_TMP_DIR_LOCATION="/scratch/temp_delete_me/xilinx-vpk180-2025.1-2025.10.31-16.25.47-kHP"
+CONFIG_TMP_DIR_LOCATION="/tmp/temp_delete_me/xilinx-vpk180-2025.1-2025.10.31-16.25.47-kHP"
 
 #
 # Devtool Workspace Location
